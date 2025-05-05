@@ -9,7 +9,7 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 public class ModItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(UselessAdditions.MODID);
 
-    public static final DeferredItem<Item> CADMIUM_INGOT = ITEMS.register("cadmium_ingot",
+    public static final DeferredItem<Item> PLATINUM_INGOT = ITEMS.register("platinum_ingot",
             ()-> new Item(new Item.Properties()));
 
 

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "jotas_useless_additions:item/cadmium_ingot"
+    "layer0": "jotas_useless_additions:item/platinum_ingot"
   }
 }
