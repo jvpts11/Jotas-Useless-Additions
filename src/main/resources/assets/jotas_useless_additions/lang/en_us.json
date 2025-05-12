@@ -1,3 +1,13 @@
 {
-  "item.jotas_useless_additions.platinum_ingot": "Platinum Ingot"
+  "item.jotas_useless_additions.platinum_ingot": "Platinum Ingot",
+  "item.jotas_useless_additions.raw_platinum": "Raw Platinum",
+  "item.jotas_useless_additions.bespinium_ingot": "Bespinium Ingot",
+
+
+  "block.jotas_useless_additions.slime_ore": "Slime Ore",
+  "block.jotas_useless_additions.platinum_ore": "Platinum Ore",
+  "block.jotas_useless_additions.platinum_block": "Platinum Block",
+
+  "creativetab.uselesadditions.items": "Useless Additions items",
+  "creativetab.uselesadditions.blocks": "Useless Additions Blocks"
 }

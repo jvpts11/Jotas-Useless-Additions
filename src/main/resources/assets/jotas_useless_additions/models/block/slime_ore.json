@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "jotas_useless_additions:block/slime_ore"
+  }
+}
